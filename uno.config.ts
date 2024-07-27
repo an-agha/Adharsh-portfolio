@@ -12,9 +12,9 @@ import {
 export default defineConfig({
   theme: {
     colors: {
-      dark: '#121036',
-      accent: '#AA64ED',
-      light: '#EBB5FF',
+      dark: '#100A10',
+      accent: '#FAD400',
+      light: '#EAEAEA',
     },
     fontFamily: {
       sans: ['"Nunito"', 'sans-serif']
