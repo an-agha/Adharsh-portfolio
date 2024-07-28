@@ -6,9 +6,9 @@
 
 <style>
 * {
-  @apply m-0 p-0 font-sans box-border selection:bg-accent selection:text-dark scroll-smooth;
+  @apply m-0 p-0 font-sans box-border selection:bg-dark selection:text-accent scroll-smooth;
 }
 body {
-  @apply min-h-dvh bg-dark text-light;
+  @apply min-h-dvh bg-light text-dark;
 }
 </style>
