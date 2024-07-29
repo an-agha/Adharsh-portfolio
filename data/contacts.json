@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "ic:baseline-phone",
+    "type": "phone",
+    "number": "919876543210"
+  },
+  {
+    "icon": "ic:baseline-email",
+    "type": "email",
+    "email": "john@smith.com"
+  },
+  {
+    "icon": "ic:baseline-message",
+    "type": "sms",
+    "number": "+919876543210"
+  },
+  {
+    "icon": "ic:baseline-facebook",
+    "link": "https://www.facebook.com/"
+  },
+  {
+    "icon": "mdi:instagram",
+    "link": "https://www.instagram.com/"
+  },
+  {
+    "icon": "mdi:youtube",
+    "link": "https://www.youtube.com/"
+  },
+  {
+    "icon": "mdi:linkedin",
+    "link": "https://www.linkedin.com/"
+  },
+  {
+    "icon": "prime:twitter",
+    "link": "https://www.x.com/"
+  },
+  {
+    "icon": "mdi:whatsapp",
+    "type": "whatsapp",
+    "number": "+91919876543210"
+  }
+]
