@@ -26,7 +26,7 @@ const contactLinks = computed(() => contacts.map(({ type, icon, ...data }) => ({
     <h2 class="text-4xl md:text-5xl">
       Get in Touch
     </h2>
-    <strong class="text-dark/60">
+    <strong class="text-secondary/60">
       Let's build something together.
     </strong>
 
@@ -37,10 +37,10 @@ const contactLinks = computed(() => contacts.map(({ type, icon, ...data }) => ({
         <NuxtLink
           :href
           target="_blank"
-          class="group grid place-content-center size-12 bg-dark hover:bg-accent rounded-full ring-2 ring-inset ring-dark duration-500 cursor-pointer">
+          class="group grid place-content-center size-12 bg-secondary hover:bg-accent rounded-full ring-2 ring-inset ring-secondary duration-500 cursor-pointer">
           <Icon
             :name="icon"
-            class="bg-accent group-hover:bg-dark size-6 group-hover:size-7 duration-300" />
+            class="bg-accent group-hover:bg-secondary size-6 group-hover:size-7 duration-300" />
         </NuxtLink>
       </li>
     </ul>

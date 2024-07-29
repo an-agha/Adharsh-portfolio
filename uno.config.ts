@@ -9,13 +9,11 @@ import {
   transformerVariantGroup
 } from 'unocss'
 
+import colors from './theme/colors.json'
+
 export default defineConfig({
   theme: {
-    colors: {
-      dark: '#100A10',
-      accent: '#FAD400',
-      light: '#EAEAEA',
-    },
+    colors,
     fontFamily: {
       sans: ['"Nunito"', 'sans-serif']
     },

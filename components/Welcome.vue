@@ -25,25 +25,27 @@ onBeforeUnmount(() => document.removeEventListener('scroll', handleScroll))
     <p
       data-aos="fade"
       data-aos-delay="400"
-      class="max-sm:px-3 max-sm:text-center text-dark/60 text-xl">
+      class="max-sm:px-3 max-sm:text-center text-secondary/60 text-xl">
       {{ profile.description }}
     </p>
 
-    <NuxtLink
-      :to="{ hash: '#about' }"
+    <div
       data-aos="fade-right"
-      data-aos-delay="800"
-      class="flex items-center gap-x-2 w-fit px-3 py-2 bg-dark text-light hover:text-accent rounded-md decoration-none cursor-pointer">
-      <span>
-        About Me
-      </span>
-    </NuxtLink>
+      data-aos-delay="800">
+      <NuxtLink
+        :to="{ hash: '#about' }"
+        class="flex items-center gap-x-2 w-fit px-3 py-2 bg-secondary hover:bg-accent text-accent hover:text-secondary ring-2 ring-inset ring-secondary rounded-md decoration-none duration-500 cursor-pointer">
+        <span>
+          About Me
+        </span>
+      </NuxtLink>
+    </div>
 
     <Transition>
       <div
         v-show="showScroll"
         class="absolute left-1/2 bottom-5 flex flex-col items-center gap-y-2 -translate-x-1/2">
-        <div class="grid content-center aspect-square p-1.5 bg-dark rounded-full animate-bounce">
+        <div class="grid content-center aspect-square p-1.5 bg-secondary rounded-full animate-bounce">
           <Icon
             name="mi:chevron-double-down"
             size="24"
