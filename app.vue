@@ -11,4 +11,16 @@
 body {
   @apply min-h-dvh bg-primary text-secondary;
 }
+
+button, a {
+  @apply cursor-pointer;
+}
+
+button {
+  @apply border-none;
+}
+
+a {
+  @apply decoration-none;
+}
 </style>

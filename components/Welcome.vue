@@ -1,8 +1,15 @@
 <script setup>
+const screenHeight = ref(0)
+
 const showScroll = ref(true)
-const handleScroll = () => showScroll.value = window.scrollY < 120
-onMounted(() => document.addEventListener('scroll', handleScroll))
-onBeforeUnmount(() => document.removeEventListener('scroll', handleScroll))
+const handleShowScroll = () => showScroll.value = window.scrollY < screenHeight.value * 0.1
+onMounted(() => {
+  screenHeight.value = screen.height
+  document.addEventListener('scroll', handleShowScroll)
+})
+onBeforeUnmount(() => document.removeEventListener('scroll', handleShowScroll))
+
+const handleScrollDown = () => scrollBy(0, screenHeight.value * 0.9)
 </script>
 
 <template>
@@ -34,7 +41,7 @@ onBeforeUnmount(() => document.removeEventListener('scroll', handleScroll))
       data-aos-delay="800">
       <NuxtLink
         :to="{ hash: '#about' }"
-        class="flex items-center gap-x-2 w-fit px-3 py-2 bg-secondary hover:bg-accent text-accent hover:text-secondary ring-2 ring-inset ring-secondary rounded-md decoration-none duration-500 cursor-pointer">
+        class="flex items-center gap-x-2 w-fit px-3 py-2 bg-secondary hover:bg-accent text-accent hover:text-secondary ring-2 ring-inset ring-secondary rounded-md duration-500">
         <span>
           About Me
         </span>
@@ -45,12 +52,14 @@ onBeforeUnmount(() => document.removeEventListener('scroll', handleScroll))
       <div
         v-show="showScroll"
         class="absolute left-1/2 bottom-5 flex flex-col items-center gap-y-2 -translate-x-1/2">
-        <div class="grid content-center aspect-square p-1.5 bg-secondary rounded-full animate-bounce">
+        <button
+          class="grid content-center aspect-square p-1.5 bg-secondary rounded-full animate-bounce"
+          @click="handleScrollDown">
           <Icon
             name="mi:chevron-double-down"
             size="24"
             color-accent />
-        </div>
+        </button>
         <span class="animate-pulse">
           Scroll Down
         </span>

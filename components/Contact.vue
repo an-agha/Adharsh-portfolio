@@ -37,7 +37,7 @@ const contactLinks = computed(() => contacts.map(({ type, icon, ...data }) => ({
         <NuxtLink
           :href
           target="_blank"
-          class="group grid place-content-center size-12 bg-secondary hover:bg-accent rounded-full ring-2 ring-inset ring-secondary duration-500 cursor-pointer">
+          class="group grid place-content-center size-12 bg-secondary hover:bg-accent rounded-full ring-2 ring-inset ring-secondary duration-500">
           <Icon
             :name="icon"
             class="bg-accent group-hover:bg-secondary size-6 group-hover:size-7 duration-300" />
