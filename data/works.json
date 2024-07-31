@@ -1,0 +1,150 @@
+[
+  {
+    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "coverType": "video",
+    "title": "Chat Website",
+    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "urls": [
+      {
+        "link": "https://example.com",
+        "text": "Website"
+      },
+      {
+        "link": "https://github.com",
+        "text": "Source"
+      }
+    ]
+  },
+  {
+    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
+    "coverType": "image",
+    "title": "Blue Bird",
+    "description": "A beautiful image of a blue bird resting on a branch.",
+    "tags": [
+      "Photography",
+      "Wildlife"
+    ],
+    "urls": [
+      {
+        "link": "https://youtube.com",
+        "text": "Video"
+      }
+    ]
+  },
+  {
+    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "coverType": "video",
+    "title": "Chat Website",
+    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "urls": [
+      {
+        "link": "https://example.com",
+        "text": "Website"
+      },
+      {
+        "link": "https://github.com",
+        "text": "Source"
+      }
+    ]
+  },
+  {
+    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
+    "coverType": "image",
+    "title": "Blue Bird",
+    "description": "A beautiful image of a blue bird resting on a branch.",
+    "tags": [
+      "Photography",
+      "Wildlife"
+    ],
+    "urls": [
+      {
+        "link": "https://youtube.com",
+        "text": "Video"
+      }
+    ]
+  },
+  {
+    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "coverType": "video",
+    "title": "Chat Website",
+    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "urls": [
+      {
+        "link": "https://example.com",
+        "text": "Website"
+      },
+      {
+        "link": "https://github.com",
+        "text": "Source"
+      }
+    ]
+  },
+  {
+    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
+    "coverType": "image",
+    "title": "Blue Bird",
+    "description": "A beautiful image of a blue bird resting on a branch.",
+    "tags": [
+      "Photography",
+      "Wildlife"
+    ],
+    "urls": [
+      {
+        "link": "https://youtube.com",
+        "text": "Video"
+      }
+    ]
+  },
+  {
+    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "coverType": "video",
+    "title": "Chat Website",
+    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "urls": [
+      {
+        "link": "https://example.com",
+        "text": "Website"
+      },
+      {
+        "link": "https://github.com",
+        "text": "Source"
+      }
+    ]
+  },
+  {
+    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
+    "coverType": "image",
+    "title": "Blue Bird",
+    "description": "A beautiful image of a blue bird resting on a branch.",
+    "tags": [
+      "Photography",
+      "Wildlife"
+    ],
+    "urls": [
+      {
+        "link": "https://youtube.com",
+        "text": "Video"
+      }
+    ]
+  }
+]

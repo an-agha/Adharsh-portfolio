@@ -23,4 +23,8 @@ button {
 a {
   @apply decoration-none;
 }
+
+.section {
+  @apply flex flex-col w-full max-w-5xl mx-auto px-4;
+}
 </style>

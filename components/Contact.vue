@@ -22,27 +22,29 @@ const contactLinks = computed(() => contacts.map(({ type, icon, ...data }) => ({
 </script>
 
 <template>
-  <footer class="flex flex-col gap-y-4 w-full max-w-5xl mx-auto pt-18 pb-32 px-4">
-    <h2 class="text-4xl md:text-5xl">
-      Get in Touch
-    </h2>
-    <strong class="text-secondary/60">
-      Let's build something together.
-    </strong>
+  <footer class="py-18 bg-secondary">
+    <div class="section gap-y-4">
+      <h2 class="text-4xl md:text-5xl text-accent">
+        Get in Touch
+      </h2>
+      <strong class="text-primary">
+        Let's build something together.
+      </strong>
 
-    <ul class="flex justify-end flex-wrap gap-6 list-none">
-      <li
-        v-for="({ icon, type, href }) in contactLinks"
-        :key="type">
-        <NuxtLink
-          :href
-          target="_blank"
-          class="group grid place-content-center size-12 bg-secondary hover:bg-accent rounded-full ring-2 ring-inset ring-secondary duration-500">
-          <Icon
-            :name="icon"
-            class="bg-accent group-hover:bg-secondary size-6 group-hover:size-7 duration-300" />
-        </NuxtLink>
-      </li>
-    </ul>
+      <ul class="flex justify-end flex-wrap gap-6 list-none">
+        <li
+          v-for="({ icon, type, href }) in contactLinks"
+          :key="type">
+          <NuxtLink
+            :href
+            target="_blank"
+            class="group grid place-content-center size-10 bg-accent hover:bg-secondary rounded-full ring-2 ring-inset ring-accent duration-500">
+            <Icon
+              :name="icon"
+              class="bg-secondary group-hover:bg-accent size-5 group-hover:size-7 duration-300" />
+          </NuxtLink>
+        </li>
+      </ul>
+    </div>
   </footer>
 </template>
