@@ -1,6 +1,7 @@
 <template>
   <Welcome />
-  <About id="about" />
+  <About />
+  <Skills />
   <MyWorks />
   <Contact />
 </template>

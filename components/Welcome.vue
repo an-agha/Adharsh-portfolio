@@ -24,8 +24,7 @@ const handleScrollDown = () => scrollBy(0, screenHeight.value * 0.9)
     <h1
       data-aos="zoom-out-up"
       class="text-4xl sm:text-6xl md:text-7xl max-sm:text-center leading-normal">
-      👋
-      Hi, I'm
+      Hi 👋, I'm
       {{ profile.name }}
     </h1>
 

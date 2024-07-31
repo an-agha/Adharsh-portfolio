@@ -1,0 +1,32 @@
+[
+  {
+    "title": "HTML",
+    "icon": "akar-icons:html-fill",
+    "backgroundColor": "#f70",
+    "description": "Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content."
+  },
+  {
+    "title": "CSS",
+    "icon": "akar-icons:css-fill",
+    "backgroundColor": "blue",
+    "description": "Cascading Style Sheets is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML."
+  },
+  {
+    "title": "JavaScript",
+    "icon": "teenyicons:javascript-outline",
+    "backgroundColor": "black",
+    "description": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn."
+  },
+  {
+    "title": "Tailwind",
+    "icon": "mdi:tailwind",
+    "backgroundColor": "teal",
+    "description": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML."
+  },
+  {
+    "title": "React",
+    "icon": "mdi:react",
+    "backgroundColor": "#0af",
+    "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript."
+  }
+]

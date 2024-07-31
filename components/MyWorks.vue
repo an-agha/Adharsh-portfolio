@@ -36,24 +36,24 @@
           <p class="text-sm text-secondary/60">
             {{ description }}
           </p>
-          <div class="flex flex-wrap gap-2 mt-auto">
-            <span
-              v-for="tag in tags"
-              :key="tag"
-              class="px-2 py-1 bg-secondary/5 font-bold text-xs rounded-md">
-              {{ tag }}
-            </span>
-          </div>
-          <div class="flex flex-wrap gap-2 pt-2">
-            <NuxtLink
-              v-for="({ link, text }) in urls"
-              :to="link"
-              target="_blank"
-              :key="link"
-              class="px-2 py-1 bg-secondary hover:bg-secondary/75 text-primary font-semibold text-xs rounded-md duration-300">
-              {{ text }}
-            </NuxtLink>
-          </div>
+          <Chips
+            :chips="tags"
+            class="mt-auto"
+            chip-class="bg-secondary/5 font-bold text-xs" />
+          <Chips
+            :chips="urls"
+            class="pt-2"
+            chip-class="bg-secondary hover:bg-secondary/75 text-primary font-semibold text-xs">
+            <template #chip="{data}">
+              <NuxtLink
+                :to="data.link"
+                target="_blank"
+                :key="data.link"
+                class="px-2 py-1 bg-secondary hover:bg-secondary/75 text-primary font-semibold text-xs rounded-md duration-300">
+                {{ data.text }}
+              </NuxtLink>
+            </template>
+          </Chips>
         </div>
       </article>
     </div>

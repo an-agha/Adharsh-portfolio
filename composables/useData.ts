@@ -1,11 +1,13 @@
 import profile from '@/data/profile.json'
 import about from '@/data/about.txt?raw'
-import contacts from '@/data/contacts.json'
 import works from '@/data/works.json'
+import skills from '@/data/skills.json'
+import contacts from '@/data/contacts.json'
 
 export {
   profile,
   about,
-  contacts,
   works,
+  skills,
+  contacts,
 }
