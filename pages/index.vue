@@ -2,6 +2,6 @@
   <Welcome />
   <About />
   <Skills />
-  <MyWorks />
+  <Works />
   <Contact />
 </template>
