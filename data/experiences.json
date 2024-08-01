@@ -1,0 +1,44 @@
+[
+  {
+    "company": {
+      "name": "Apple",
+      "website": "https://www.apple.com/",
+      "location": "Cupertino, California"
+    },
+    "role": "Full Stack Developer",
+    "duration": {
+      "from": "Jan 2024",
+      "to": "Present"
+    },
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Figma",
+      "Node.js",
+      "Express.js",
+      "Nest.js"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/625px-Apple_logo_black.svg.png"
+  },
+  {
+    "company": {
+      "name": "Google",
+      "website": "https://about.google/",
+      "location": "Mountain View, California, United States"
+    },
+    "role": "Web Designer",
+    "duration": {
+      "from": "Jul 2022",
+      "to": "Dec 2023"
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma",
+      "Adobe XD",
+      "Webflow"
+    ],
+    "image": "https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-icon-PNG.png"
+  }
+]
