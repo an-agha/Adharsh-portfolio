@@ -1,5 +1,7 @@
 <template>
-  <section class="section gap-y-4 md:gap-y-6 pb-24 md:pb-32">
+  <section
+    v-if="works.length"
+    class="section gap-y-4 md:gap-y-6 pb-24 md:pb-32">
     <h2 class="text-4xl md:text-5xl">
       My Works
     </h2>

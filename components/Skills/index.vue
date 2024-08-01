@@ -1,5 +1,6 @@
 <template>
   <section
+    v-if="skills.length"
     id="about"
     class="section gap-y-4 md:gap-y-6 pt-10 pb-24">
     <h2 class="text-4xl md:text-5xl">

@@ -36,6 +36,7 @@ const handleScrollDown = () => scrollBy(0, screenHeight.value * 0.9)
     </p>
 
     <div
+      v-if="about"
       data-aos="fade-right"
       data-aos-delay="800">
       <NuxtLink

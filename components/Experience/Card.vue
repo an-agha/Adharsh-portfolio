@@ -32,7 +32,7 @@ defineProps({
     after:content-[''] after:absolute after:top-0 after:left-4.5 md:after:left-5.5 after:h-full after:border-l-dashed after:border-secondary/20">
     <img
       :src="image"
-      class="size-10 md:size-12 object-contain p-2 bg-primary border-solid border-secondary/20 rounded-full z-1" />
+      class="flex-none size-10 md:size-12 object-contain p-2 bg-primary border-solid border-secondary/20 rounded-full z-1" />
     <div class="flex flex-col gap-y-1">
       <h3>
         {{ role }}
@@ -40,7 +40,7 @@ defineProps({
       <NuxtLink
         :to="company.website"
         target="_blank"
-        class="text-secondary text-sm font-semibold">
+        class="w-fit text-secondary text-sm font-semibold">
         {{ company.name }}
       </NuxtLink>
       <span class="text-sm text-secondary/60">

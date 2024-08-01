@@ -22,7 +22,9 @@ const contactLinks = computed(() => contacts.map(({ type, icon, ...data }) => ({
 </script>
 
 <template>
-  <footer class="py-18 bg-secondary">
+  <footer
+    v-if="contactLinks.length"
+    class="py-18 bg-secondary">
     <div class="section gap-y-4">
       <h2 class="text-4xl md:text-5xl text-accent">
         Get in Touch

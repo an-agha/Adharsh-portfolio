@@ -1,6 +1,6 @@
 <template>
   <section
-    id="about"
+    v-if="experiences.length"
     class="section gap-y-4 md:gap-y-6 pt-10 pb-24 md:pb-32">
     <h2 class="text-4xl md:text-5xl">
       Experience
