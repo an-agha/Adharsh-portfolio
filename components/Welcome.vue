@@ -14,7 +14,7 @@ const handleScrollDown = () => scrollBy(0, screenHeight.value * 0.9)
 
 <template>
   <header class="relative grid content-center max-md:justify-items-center justify-center gap-4 max-w-6xl min-h-dvh mx-auto px-3 sm:px-12">
-    <NuxtImg
+    <img
       :src="profile.image"
       :alt="profile.name"
       data-aos="fade"

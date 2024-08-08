@@ -4,7 +4,6 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     'nuxt-aos',
     '@nuxtjs/google-fonts',
-    '@nuxt/image',
     'nuxt-icon',
   ],
   googleFonts: {
