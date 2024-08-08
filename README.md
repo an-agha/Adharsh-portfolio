@@ -4,6 +4,14 @@
 - Fork the repository
 - Install dependencies
   `npm i`
+- Setting Base URL
+  Currently the base URL will be `/` for dev build & `/simple-portfolio-template/` for the production build.
+  This can be changed accordingly, and if you don't any base URL in neither dev or production builds, just remove the following lines from the `nuxt.config.ts` file.
+  ```
+    app: {
+      baseURL: process.env.NODE_ENV === 'production' ? '/simple-portfolio-template/' : '/'
+    },
+  ```
 - To start the development server
   `npm run dev`
 - To build the production files
