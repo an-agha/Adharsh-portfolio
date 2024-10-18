@@ -1,44 +1,39 @@
 [
   {
     "company": {
-      "name": "Apple",
-      "website": "https://www.apple.com/",
-      "location": "Cupertino, California"
+      "name": "Super 30five",
+      "website": "",
+      "location": "Kaggarapadi, Ernakulam"
     },
-    "role": "Full Stack Developer",
+    "role": "VFX/ Special Effects/ Motion Graphics Designer",
     "duration": {
-      "from": "Jan 2024",
+      "from": "April 2024",
       "to": "Present"
     },
     "skills": [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Figma",
-      "Node.js",
-      "Express.js",
-      "Nest.js"
+      "Adobe After Effects",
+      "Adobe Premiere Pro",
+      "Compositing Techniques",
+      "Color Correction and Grading"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/625px-Apple_logo_black.svg.png"
+    "image": "/images/company-logo.png"
   },
   {
     "company": {
-      "name": "Google",
-      "website": "https://about.google/",
-      "location": "Mountain View, California, United States"
+      "name": "Sacred Heart College",
+      "website": "https://www.shcollege.ac.in/",
+      "location": "Thevara, Kochi"
     },
-    "role": "Web Designer",
+    "role": "B.A. Mass Communication and Journalism (BCJ)",
     "duration": {
-      "from": "Jul 2022",
-      "to": "Dec 2023"
+      "from": "2021",
+      "to": "2024"
     },
     "skills": [
-      "HTML",
-      "CSS",
-      "Figma",
-      "Adobe XD",
-      "Webflow"
+      "Writing and Editing",
+      "Digital Communication",
+      "Ethical Standards"
     ],
-    "image": "https://image.similarpng.com/very-thumbnail/2020/06/Logo-google-icon-PNG.png"
+    "image": "/images/sh-logo.png"
   }
 ]

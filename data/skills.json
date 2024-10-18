@@ -1,32 +1,32 @@
 [
   {
-    "title": "HTML",
-    "icon": "akar-icons:html-fill",
+    "title": "Photography",
+    "icon": "material-symbols:camera",
     "backgroundColor": "#f70",
-    "description": "Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content."
+    "description": "I specialize in capturing moments that tell stories, using my keen eye for detail to find beauty in everyday life. Whether it’s through portraiture, landscapes, or candid shots, I strive to create images that evoke emotion and convey a unique perspective. My goal is to transform fleeting moments into lasting memories through the art of photography."
   },
   {
-    "title": "CSS",
-    "icon": "akar-icons:css-fill",
+    "title": "Cinematography",
+    "icon": "material-symbols:video-camera-back-outline-sharp",
     "backgroundColor": "blue",
-    "description": "Cascading Style Sheets is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML."
+    "description": "As a cinematographer, I focus on creating visually stunning narratives that enhance storytelling. I utilize lighting, composition, and movement to evoke emotions and immerse viewers in the experience. Each frame is carefully crafted to reflect the mood and tone of the project, ensuring that every visual element contributes to the overall narrative. My passion lies in transforming scripts into compelling visual stories that resonate with audiences."
   },
   {
-    "title": "JavaScript",
-    "icon": "teenyicons:javascript-outline",
+    "title": "VFX & Special Effects",
+    "icon": "solar:special-effects-broken",
     "backgroundColor": "black",
-    "description": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn."
+    "description": "In the realm of VFX and special effects, I bring imagination to life by seamlessly integrating digital elements into live-action footage. My work involves creating stunning visuals that enhance storytelling, whether through subtle enhancements or bold, eye-catching effects. I thrive on pushing creative boundaries, using tools and techniques to craft immersive experiences that captivate audiences and elevate the narrative."
   },
   {
-    "title": "Tailwind",
-    "icon": "mdi:tailwind",
+    "title": "Direction",
+    "icon": "game-icons:director-chair",
     "backgroundColor": "teal",
-    "description": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML."
+    "description": "In my role as a director, I focus on cultivating a clear and inspiring vision that guides each project. I thrive on fostering collaboration, ensuring that every team member feels valued and empowered to contribute their unique ideas. By prioritizing open communication and constructive feedback, I create an environment where creativity can flourish. I adapt strategies as needed to keep project goals in sight, while encouraging innovation and exploration. My commitment to mentorship allows me to support and develop others, creating a space for continuous learning and growth. Through this dynamic approach, I aim to lead projects to success while inspiring those around me to reach their fullest potential."
   },
   {
-    "title": "React",
-    "icon": "mdi:react",
+    "title": "Scripting",
+    "icon": "emojione-monotone:writing-hand",
     "backgroundColor": "#0af",
-    "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript."
+    "description": "I have a passion for crafting compelling narratives through scripting, where I blend creativity with structure to bring stories to life. My approach involves developing engaging characters, building tension, and creating dialogue that resonates with audiences. I pay close attention to pacing and flow, ensuring that each scene contributes meaningfully to the overall narrative arc. Whether for film, video, or multimedia projects, I enjoy collaborating with directors and producers to refine scripts and elevate storytelling. My goal is to create scripts that not only entertain but also evoke emotion and provoke thought, making a lasting impact on viewers."
   }
 ]

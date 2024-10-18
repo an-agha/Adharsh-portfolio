@@ -1,43 +1,42 @@
 [
   {
-    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "cover": "/video/cinematography/video1.mp4",
     "coverType": "video",
-    "title": "Chat Website",
-    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "title": "Bheeshma Parvam Movie Promotion Event Video",
+    "description": "As part of the promotional campaign for the 'Bheeshma Parvam' movie, I had the opportunity to create a video documenting an engaging event held at my college. This event brought together students, faculty, and film enthusiasts to celebrate the film’s themes and its talented cast.",
     "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript"
+      "Bheeshma Parvam",
+      "Promotion Video",
+      "Video Editing",
+      "Cinematography"
     ],
     "urls": [
       {
-        "link": "https://example.com",
-        "text": "Website"
-      },
-      {
-        "link": "https://github.com",
-        "text": "Source"
-      }
-    ]
-  },
-  {
-    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
-    "coverType": "image",
-    "title": "Blue Bird",
-    "description": "A beautiful image of a blue bird resting on a branch.",
-    "tags": [
-      "Photography",
-      "Wildlife"
-    ],
-    "urls": [
-      {
-        "link": "https://youtube.com",
+        "link": "/video/cinematography/video1.mp4",
         "text": "Video"
       }
     ]
   },
   {
-    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "cover": "/video/cinematography/video2.mp4",
+    "coverType": "video",
+    "title": "Nightmare Short Video",
+    "description": "In the creation of the 'Nightmare' short video, I aimed to evoke a sense of suspense and intrigue through visual storytelling. The project involved developing a compelling narrative that explored the themes of fear and uncertainty, capturing the essence of a nightmare experience.",
+    "tags": [
+      "Cinematography",
+      "Video Editing",
+      "Direction",
+      "Story"
+    ],
+    "urls": [
+      {
+        "link": "/video/cinematography/video1.mp4",
+        "text": "Video"
+      }
+    ]
+  },
+  {
+    "cover": "https://youtu.be/4WaD2BCh7RA?si=3OAHpxHxJE14evqI",
     "coverType": "video",
     "title": "Chat Website",
     "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
