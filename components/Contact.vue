@@ -27,7 +27,7 @@ const contactLinks = computed(() => contacts.map(({ type, icon, ...data }) => ({
     class="py-18 bg-secondary">
     <div class="section gap-y-4">
       <h2 class="text-4xl md:text-5xl text-accent">
-        Get in Touch
+        Contact Me
       </h2>
       <strong class="text-primary">
         Let's build something together.
