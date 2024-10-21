@@ -100,5 +100,56 @@
         "text": "Video"
       }
     ]
+  },
+  {
+    "cover": "/video/cinematography/video6.mp4",
+    "coverType": "video",
+    "title": "Collage Event",
+    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "urls": [
+      {
+        "link": "/video/cinematography/video6.mp4",
+        "text": "Video"
+      }
+    ]
+  },
+  {
+    "cover": "/video/cinematography/video7.mp4",
+    "coverType": "video",
+    "title": "Collage Event",
+    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "urls": [
+      {
+        "link": "/video/cinematography/video7.mp4",
+        "text": "Video"
+      }
+    ]
+  },
+  {
+    "cover": "/video/cinematography/video8.mp4",
+    "coverType": "video",
+    "title": "Collage Event",
+    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "urls": [
+      {
+        "link": "/video/cinematography/video8.mp4",
+        "text": "Video"
+      }
+    ]
   }
 ]
