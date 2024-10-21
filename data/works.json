@@ -2,10 +2,10 @@
   {
     "cover": "/video/cinematography/video1.mp4",
     "coverType": "video",
-    "title": "Bheeshma Parvam Movie Promotion Event Video",
-    "description": "As part of the promotional campaign for the 'Bheeshma Parvam' movie, I had the opportunity to create a video documenting an engaging event held at my college. This event brought together students, faculty, and film enthusiasts to celebrate the film’s themes and its talented cast.",
+    "title": "Manjummal Boys Movie Promotion Event Video",
+    "description": "As part of the promotional campaign for the 'Manjummal Boys' movie, I had the opportunity to create a video documenting an engaging event held at my college. This event brought together students, faculty, and film enthusiasts to celebrate the film’s themes and its talented cast.",
     "tags": [
-      "Bheeshma Parvam",
+      "Manjummal Boys",
       "Promotion Video",
       "Video Editing",
       "Cinematography"
@@ -36,67 +36,26 @@
     ]
   },
   {
-    "cover": "https://youtu.be/4WaD2BCh7RA?si=3OAHpxHxJE14evqI",
-    "coverType": "video",
-    "title": "Chat Website",
-    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "urls": [
-      {
-        "link": "https://example.com",
-        "text": "Website"
-      },
-      {
-        "link": "https://github.com",
-        "text": "Source"
-      }
-    ]
-  },
-  {
-    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
+    "cover": "/images/poster.png",
     "coverType": "image",
-    "title": "Blue Bird",
-    "description": "A beautiful image of a blue bird resting on a branch.",
+    "title": "ILLUMINATI Dance Choreo",
+    "description": "In the dance video 'ILLUMINATI' by SUPER30FIVE, I had the exciting opportunity to contribute as the assistant director, VFX artist, and special effects creator. My role involved collaborating closely with the director to shape the visual narrative and ensure the choreography seamlessly integrated with the dynamic effects.",
     "tags": [
-      "Photography",
-      "Wildlife"
+      "VFX",
+      "Special Effects",
+      "Direction"
     ],
     "urls": [
       {
-        "link": "https://youtube.com",
+        "link": "https://youtu.be/4WaD2BCh7RA?si=3OAHpxHxJE14evqI",
         "text": "Video"
       }
     ]
   },
   {
-    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "cover": "/video/cinematography/video3.mp4",
     "coverType": "video",
-    "title": "Chat Website",
-    "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "urls": [
-      {
-        "link": "https://example.com",
-        "text": "Website"
-      },
-      {
-        "link": "https://github.com",
-        "text": "Source"
-      }
-    ]
-  },
-  {
-    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
-    "coverType": "image",
-    "title": "Blue Bird",
+    "title": "Lorem",
     "description": "A beautiful image of a blue bird resting on a branch.",
     "tags": [
       "Photography",
@@ -104,15 +63,31 @@
     ],
     "urls": [
       {
-        "link": "https://youtube.com",
+        "link": "/video/cinematography/video3.mp4",
         "text": "Video"
       }
     ]
   },
   {
-    "cover": "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    "cover": "/video/cinematography/video4.mp4",
     "coverType": "video",
-    "title": "Chat Website",
+    "title": "jhjd",
+    "description": "A beautiful image of a blue bird resting on a branch.",
+    "tags": [
+      "Photography",
+      "Wildlife"
+    ],
+    "urls": [
+      {
+        "link": "/video/cinematography/video4.mp4",
+        "text": "Video"
+      }
+    ]
+  },
+  {
+    "cover": "/video/cinematography/video5.mp4",
+    "coverType": "video",
+    "title": "Collage Event",
     "description": "With the release of the OpenAI GPT Store, I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
     "tags": [
       "HTML",
@@ -121,27 +96,7 @@
     ],
     "urls": [
       {
-        "link": "https://example.com",
-        "text": "Website"
-      },
-      {
-        "link": "https://github.com",
-        "text": "Source"
-      }
-    ]
-  },
-  {
-    "cover": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg",
-    "coverType": "image",
-    "title": "Blue Bird",
-    "description": "A beautiful image of a blue bird resting on a branch.",
-    "tags": [
-      "Photography",
-      "Wildlife"
-    ],
-    "urls": [
-      {
-        "link": "https://youtube.com",
+        "link": "/video/cinematography/video5.mp4",
         "text": "Video"
       }
     ]
