@@ -37,3 +37,5 @@ The UI colors are taken from the `color.json` file in the `theme` directory, it 
 - `accent` color is used for certain indication.
 
 Make sure the primary contrasts with the secondary and the secondary contrasts with the primary when switching up the theme.
+
+add change
